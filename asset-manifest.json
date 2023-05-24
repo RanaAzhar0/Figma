@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RanaAzhar0/Figma/static/css/main.3613bb3f.css",
+    "main.js": "/RanaAzhar0/Figma/static/js/main.d2624f49.js",
+    "static/media/Ellipse 2.png": "/RanaAzhar0/Figma/static/media/Ellipse 2.597f7616c7054d1b9efe.png",
+    "index.html": "/RanaAzhar0/Figma/index.html",
+    "main.3613bb3f.css.map": "/RanaAzhar0/Figma/static/css/main.3613bb3f.css.map",
+    "main.d2624f49.js.map": "/RanaAzhar0/Figma/static/js/main.d2624f49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3613bb3f.css",
+    "static/js/main.d2624f49.js"
+  ]
+}
