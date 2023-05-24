@@ -5,9 +5,77 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Nunito Sans';
+
 }
 
-code {
+/* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+
+.sign {
+  box-shadow: 1px 1px 3px rgba(0, 1, 1.3);
+
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.step1 {
+  background: linear-gradient(180deg, #635EA3 0%, #3B3775 100%);
+  border-radius: 445px 0px ;
+}
+.nextbtn{
+  background: linear-gradient(85.89deg, #49478C 7.82%, #9756FF 117.28%);
+border-radius: 10px;
+width: 323px;
+height: 42px;
+}
+.subbtn{
+  background: linear-gradient(85.89deg, #49478C 7.82%, #9756FF 117.28%);
+  border-radius: 2px;
+  width: 180px;
+  height: 38px;
+}
+.LoginNow{
+  background: linear-gradient(85.89deg, #49478C 7.82%, #9756FF 117.28%);
+  border-radius: 2px;
+  width: 210px;
+  height: 38px;
+}
+.RegisterNow{
+  background: linear-gradient(85.89deg, #49478C 7.82%, #9756FF 117.28%);
+  /* border-radius: 2px; */
+  width: 265px;
+  height: 38px;
+}
+/* .Priviousbtn{
+  background: linear-gradient(85.89deg, #49478C 7.82%, #9756FF 117.28%);
+  border-radius: 2px;
+  width: 180px;
+  height: 38px;
+} */
+.CreateProfile{
+border: 2px solid #49478C;
+}
+.CreateProfile:hover{
+  background-color:  rgba(4, 36, 242, 0.4);
+  color: white;
+  }
+  .Employer:hover{
+  background-color:  rgb(10, 23, 87);
+
+  }
+  .bgimg{
+    background-image: url("./images/Ellipse3\(Stroke\).png");
+    background-size: 100% 100%;  
+    
+  }
+  .bgimges{
+    background-image: url("./images/Ellipse\ 2.png");
+    background-size: 100% 100%;  
+    
+  }
